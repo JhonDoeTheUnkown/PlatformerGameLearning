@@ -8,7 +8,7 @@ Welcome to my 2D Platformer game repository! This project is currently under act
 ---
 
 ## 🎮 Gameplay Preview
-*(Once you have a playable build, record a quick GIF or screenshot, save it in a `Gif/` folder, and uncomment the line below)*
+<!-- *(Once you have a playable build, record a quick GIF or screenshot, save it in a `Gif/` folder, and uncomment the line below)* -->
 ---
 
 ## 🚀 Key Features (Planned & In Development)
